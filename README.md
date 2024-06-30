@@ -15,7 +15,7 @@ The DegenToken contract is an ERC20 token smart contract that enables various fu
 ## Contract Details
 
 - SPDX-License-Identifier: MIT
-- Solidity Version: ^0.8.18
+- Solidity Version: ^0.8.26
 
 ## Functions
 
